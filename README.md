@@ -1,2 +1,2 @@
 # projeto-Pessoal
-projeto para lembrar das coisas que eu esqueço
+Projeto para lembrar das Atividades
