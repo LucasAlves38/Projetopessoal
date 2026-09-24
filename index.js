@@ -41,7 +41,6 @@ if (dias3 <= 3) {
 // mostra o titulo do programa
 console.log("--- Não esquecer ---")
 
-
 // mostra as informacoes de cada atividade juntas numa linha
 console.log(atividade1 + " | " + local1 + " | " + dias1 + " dias | " + urgencia1)
 console.log(atividade2 + " | " + local2 + " | " + dias2 + " dias | " + urgencia2)
