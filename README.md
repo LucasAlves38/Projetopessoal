@@ -1,2 +1,3 @@
-agenda.de.atividades
+#agenda.de.atividades
+
 Projeto para lembrar das Atividades
